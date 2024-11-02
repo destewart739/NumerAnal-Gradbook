@@ -9,6 +9,7 @@
   * p. 96, Sec 2.2.1: Last line of 2nd paragraph: the *a*'s should be *b*'s.
   * p. 62, Algo. 10, line 11: $l_{ik} ← m_{ik}$ assignment should occur on line 9.
   * p. 105, Exercise (1): Should read '...using normal equations or the QR factorization'.
+  * p. 105-105, Excercise (4)-(6): Consider 'if $A = Q_1R_1 = Q_2_R_2$', suggest re-writting to avoid a notation conflict with Equation (2.2.9).
   * p. 108, Algo. 19, line 8: $\ell_k$ should be $\ell_{k-1}$
   * p. 129, equation (2.4.14): The last set should be $span\\{r_0,Ar_0,...,A^k r_0\\}$.
   * p. 131, line 5: $x_k-x_0$ should be $x_{k+1}-x_0$
